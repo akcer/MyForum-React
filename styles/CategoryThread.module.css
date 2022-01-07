@@ -1,0 +1,9 @@
+.pagination {
+  background-color: lavender;
+}
+.pagination:hover {
+  background-color: white;
+}
+.threadDetails {
+  font-size: 0.75rem;
+}
